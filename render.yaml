@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: hybrid-rag
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python src/app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
