@@ -21,7 +21,7 @@ Standard RAG systems retrieve relevant documents but produce answers that are **
 
 ## The Solution
 
-**Hybrid retrieval** (dense + sparse) with **reciprocal rank fusion**, **cross-encoder re-ranking**, and **citation grounding** that traces every answer back to its source.
+Hybrid retrieval (dense + sparse) with reciprocal rank fusion, cross-encoder re-ranking, and citation grounding that traces every answer back to its source.
 
 ```
 Query
@@ -88,4 +88,4 @@ If you use this in research, cite:
 
 ## Contact
 
-Dr. Lubna Aziz — engr.lubnaaziz@gmail.com — [Google Scholar](https://scholar.google.com/citations?user=Uu-CkiYAAAAJ)
+Dr. Lubna Aziz, engr.lubnaaziz@gmail.com, [Google Scholar](https://scholar.google.com/citations?user=Uu-CkiYAAAAJ)
