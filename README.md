@@ -4,6 +4,7 @@
 
 ### Citation-Grounded Retrieval-Augmented Generation
 
+[![CI](https://img.shields.io/github/actions/workflow/status/Lubnaaziz-28/hybrid-rag/ci.yml?logo=github&style=flat-square)]()
 [![Tech](https://img.shields.io/badge/Tech-Dense_%2B_Sparse-9B59B6)]()
 [![Feature](https://img.shields.io/badge/Feature-Citation_Grounding-3498DB)]()
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow?logo=python&logoColor=white)]()
