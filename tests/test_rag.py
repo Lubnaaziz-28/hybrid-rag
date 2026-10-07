@@ -1,7 +1,10 @@
-import pytest
-
 def test_import():
-    assert True
+    import app
+    import verifier
+
+    assert app is not None
+    assert verifier is not None
+
 
 def test_retrieval():
     assert True
